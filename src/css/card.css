@@ -193,7 +193,7 @@ body {
     background-image: linear-gradient(135deg, #2ce3e6, #6036eb);
     background: -webkit-linear-gradient(to left, #fbde8f, #4ec8be);
     width: 100%;
-    height: 120vh;
+    height: 100vh;
     position: relative;
     overflow: hidden;
 }
