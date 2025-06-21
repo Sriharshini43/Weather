@@ -72,11 +72,9 @@ function Card() {
             <head>
                 <title>Weather App</title>
             </head>
-            <body>
-                <div class="row justify-content-center">
-                    <div class="col-md-8 mt-5 text-justify">
-                        <h1 class="text-white">Weather App</h1>
-                    </div>
+           <body class="d-flex justify-content-center align-items-center vh-100 bg-dark">
+                <div class="text-center">
+                    <h1 class="text-white">Weather App</h1>
                 </div>
             </body>
             </div><div className='container'>
