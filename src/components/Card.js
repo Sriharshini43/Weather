@@ -77,7 +77,8 @@ function Card() {
                     <h1 class="text-white">Weather App</h1>
                 </div>
             </body>
-            </div><div className='container'>
+            </div>
+            <div className='container mt-5 mt-md-0'>
                 <div className="card">
                     <div className="inputData">
                         <input
