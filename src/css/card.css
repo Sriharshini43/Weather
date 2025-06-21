@@ -126,6 +126,7 @@ body {
     .card {
         width: 33rem;
         height: 36rem;
+        top: 10vh;
     }
 
     .boxes {
